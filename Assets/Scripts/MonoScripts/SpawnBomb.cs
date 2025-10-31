@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class SpawnBomb : MonoBehaviour
 {
-    public GameObject objectToSpawn; 
-    public Transform player;       
-    public KeyCode spawnKey = KeyCode.Space; 
+    [SerializeField] private GameObject objectToSpawn; 
+    [SerializeField] private Transform player;       
+    [SerializeField] private KeyCode spawnKey = KeyCode.Space; 
 
     void Update()
     {
