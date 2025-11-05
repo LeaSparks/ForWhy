@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: ea0ea1a62a59dec4b8201619e9deacaf
+  - enabled: 1
     path: Assets/Scenes/BossRoomTemplate.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MenuFlat.unity
+    guid: c96006874e2150a4c84010fa8d23e2f2
+  - enabled: 1
+    path: Assets/Scenes/MenuElevator.unity
+    guid: 15b83fdb320b38c4497eb90b0143a1e5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
