@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.awixstudio.disableautocompiler": {
+      "version": "https://github.com/AwixStudio/DisableAutoCompiler.git#main",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2e87ff4de1704d68841f2fa48af2044f7ce2b8ea"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -51,7 +58,7 @@
       "dependencies": {}
     },
     "com.unity.ide.rider": {
-      "version": "3.0.36",
+      "version": "3.0.38",
       "depth": 0,
       "source": "registry",
       "dependencies": {

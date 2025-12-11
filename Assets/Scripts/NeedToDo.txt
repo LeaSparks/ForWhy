@@ -1,0 +1,14 @@
+Blood splatter
+movement slow while using flaamethrower
+delay before bomb usage
+boss
+state machines
+items
+timeslow cooldown
+boss health
+death screne
+win sequence
+elevator open
+win screen
+
+diagetic elevator UI
